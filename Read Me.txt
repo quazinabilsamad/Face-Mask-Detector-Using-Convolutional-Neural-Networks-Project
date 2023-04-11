@@ -1,0 +1,9 @@
+1. Go to the anaconda prompt and locate your project directory using cd.
+
+2. Create a virtual environment using the command “conda create -n myenv python=3.7.9”
+
+3. Activate virtual environment using the command “conda activate myenv”
+
+4. Install required packages using the command “pip install -r requirements.txt”.
+
+5. Run project using the command “python detect_mask_video.py”.
